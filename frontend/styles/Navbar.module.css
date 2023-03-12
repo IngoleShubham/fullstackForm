@@ -1,0 +1,26 @@
+.nav{
+    position: fixed;
+    z-index: 5;
+    width: 100%;
+    text-align: center;
+    background-color: beige;
+    top: 0;
+}
+
+.nav ul{
+    padding: 2% 2%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.nav ul .links{
+    display: flex;
+    width: 20vw;
+    justify-content: space-between;
+}
+
+.nav ul li{
+    text-decoration: none;
+    list-style-type: none;
+}
+

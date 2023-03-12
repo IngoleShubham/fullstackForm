@@ -1,0 +1,21 @@
+.container{
+    width: 60vw;
+    margin: 20vh 20vw;
+    border: 1px solid #000;
+}
+
+.table {
+    width: 100%;
+    border: 1px solid #000;
+    border-collapse: collapse;
+}
+
+.table th{
+    margin: 20px;
+}
+
+.tableBody{
+    width: 10vw;
+    padding: 5px;
+    border: 1px solid #000;
+}
